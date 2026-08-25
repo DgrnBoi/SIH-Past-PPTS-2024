@@ -12,26 +12,35 @@ Winning a high-stakes hackathon like SIH requires more than just clean code. The
 
 Here is the list of available presentations, categorized by year and team:
 
+### 🏆 Smart India Hackathon 2026
+* [SIH 2026 - Idea Presentation Template](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2026_Idea_Presentation_Template.pdf)
+
 ### 🏆 Smart India Hackathon 2025
 * [SIH 2025 - GeoGuards](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2025_GeoGuards_High_Quality.pdf)
 * [SIH 2025 - Tech Pioneers](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2025_Tech_Pioneers_High_Quality.pdf)
+* [SIH 2025 - Framework Fanatics (KMRL Document Automation)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2025_Framework_Fanatics_KMRL_Document_Automation.pdf)
+* [SIH 2025 - Pillowmasters (SwachSetu Waste Management)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2025_Pillowmasters_SwachSetu_Waste_Management.pdf)
 
 ### 🏆 Smart India Hackathon 2024
 * [SIH 2024 - AK11](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_AK11_High_Quality.pdf)
-* [SIH 2024 - Cannon Crew](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Cannon_Crew_High_Quality.pdf)
+* [SIH 2024 - Cannon Crew (GPO Customization & Deployment)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Cannon_Crew_High_Quality.pdf)
+* [SIH 2024 - Cannon Crew (Air-Gapped Security Automator - Alternative)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Cannon_Crew_Air_Gapped_Security_Alternative.pdf)
 * [SIH 2024 - CleanCoders (Waste Management)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_CleanCoders_Waste_Management.pdf)
 * [SIH 2024 - DevWise (Rural Education)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_DevWise_Rural_Education.pdf)
+* [SIH 2024 - FitFusion (FitMitra)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_FitFusion_FitMitra.pdf)
 * [SIH 2024 - Heritage Bytes](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Heritage_Bytes_High_Quality.pdf)
 * [SIH 2024 - Laksh](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Laksh_High_Quality.pdf)
 * [SIH 2024 - General High Quality Presentation Template](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Presentation_High_Quality_Clean.pdf)
 * [SIH 2024 - Shokha Baba Buffet](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Shokha_Baba_Buffet_High_Quality.pdf)
 * [SIH 2024 - Tech Busters](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Tech_Busters_High_Quality.pdf)
 * [SIH 2024 - Tech Titans](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Tech_Titans_High_Quality.pdf)
+* [SIH 2024 - TechAkshara Nexus (SKHydroLink)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_TechAkshara_Nexus_SKHydroLink.pdf)
 * [SIH 2024 - Techbyte](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2024_Techbyte_High_Quality.pdf)
 
 ### 🏆 Smart India Hackathon 2023
 * [SIH 2023 - General Clean Presentation Template](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2023_Presentation_Clean.pdf)
 * [SIH 2023 - Techies Travel](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2023_Techies_Travel_High_Quality.pdf)
+* [SIH 2023 - SMARTIrrIS AI (Valves Regulation for Irrigation)](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/SIH_2023_SMARTIrrIS_AI_Valves_Regulation.pdf)
 
 ### 🏅 Regional Hackathons
 * [Vadodara Hackathon 6.0 - Anonymous Bits](file:///c:/Users/Eshaan%20Sunthankar/Documents/antigravity/bold-darwin/Vadodara_Hackathon_6_0_Anonymous_Bits.pdf)
