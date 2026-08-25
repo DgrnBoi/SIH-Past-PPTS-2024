@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Allow repository assets and configurations
+!README.md
+!.gitignore
+
+# Allow all PDF files
+!*.pdf
