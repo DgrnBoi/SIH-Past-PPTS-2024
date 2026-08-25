@@ -4,6 +4,8 @@ Welcome to the ultimate repository of curated **Smart India Hackathon (SIH)** an
 
 Winning a high-stakes hackathon like SIH requires more than just clean code. The way a team structures the problem, explains the architecture, and details the business viability determines success. We compiled this collection to study how successful teams designed their slides, mapped their user flows, and articulated their solutions to the jury.
 
+⭐ **Star this repository** to save it for reference, and share the link with teammates and friends preparing for upcoming hackathons.
+
 ---
 
 ## 📂 Repository Contents
